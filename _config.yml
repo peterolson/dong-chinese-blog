@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog for Dong Chinese, a data-driven app for learning to read and write Mandarin Chinese 
   through thousands of real example sentences, captioned images, and songs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.dong-chinese.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  peterolson
 show_excerpts: true
 
