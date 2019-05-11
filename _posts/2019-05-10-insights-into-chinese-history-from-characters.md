@@ -116,9 +116,3 @@ All of the following characters were originally pictographs of axes (although th
 
 Make sure you don't confuse them. Good luck! :)  
 Fortunately, many of them are not in common daily use anymore, except for 成 (complete; succeed) and 或 (or; maybe).
-&nbsp;  
-&nbsp;  
-
---------------
-  
-Want to learn how characters are formed and how to read and write Chinese? Sign up at [Dong Chinese](https://www.dong-chinese.com).
