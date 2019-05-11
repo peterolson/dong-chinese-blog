@@ -13,7 +13,7 @@ In ancient China, fortune-tellers would throw turtle shells and animal bones int
 
 ![Oracle bone script](/images/oracle_bone.png)
 
-Several Chinese character allude this method of fortune-telling:
+Several Chinese characters allude to this method of fortune-telling:
 
  - **兆** means "omen", and it is a pictograph of cracks on a turtle shell, similar to those in the picture above.
  - **卜** means "to divine", and it is also a pictograph of a crack on a shell.
@@ -105,7 +105,7 @@ The ancient Chinese seemed to have an obsession with axes and drawing them from 
  - **戈** means "dagger-axe".
  - **士** means "soldier" or "scholar", and depicts an axe used by a military officer.
  - **王** means "king", and depicts an axe symbolizing the king's military authority.
- - **可** means "allow" or "able" and is pronounced "kě". This meaning is unrelated to axes, but originally the character meant "axe handle", which is now written as 柯 and pronounced "kē". The mouth (口) component was added since 可 is only "mouthed", i.e. used for it's phonetic value.
+ - **可** means "allow" or "able" and is pronounced "kě". This meaning is unrelated to axes, but originally the character meant "axe handle", which is now written as 柯 and pronounced "kē". The mouth (口) component was added since 可 is only "mouthed", i.e. used for its phonetic value.
  - **斤** means "axe", now also used as a unit of weight.
 
 ### And that's not all
