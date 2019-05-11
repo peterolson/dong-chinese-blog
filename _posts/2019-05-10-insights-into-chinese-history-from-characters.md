@@ -4,9 +4,7 @@ title:  "10 things I learned about ancient China from studying Chinese character
 ---
 Chinese characters have been around for thousands of years, and many of them have created traces that we can follow to discover some interesting fragments of Chinese history.
 
-While I was working on creating the [Chinese character etymology lexicon](https://github.com/peterolson/chinese-lexicon) that I incorporated into [Dong Chinese](https://www.dong-chinese.com), I researched the origins of hundreds of the most common Chinese characters, and during that process I stumbled upon these interesting tidbits of information about ancient Chinese culture.
-
-The sources for the information on this page are the [Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) provided by the Chinese University of Hong Kong, and the [historical character image database](https://hanziyuan.net) created by Richard Sears.
+While I was working on creating the [Chinese character etymology lexicon](https://github.com/peterolson/chinese-lexicon) that I incorporated into [Dong Chinese](https://www.dong-chinese.com), I researched the origins of hundreds of the most common Chinese characters. During that process I stumbled upon these interesting tidbits of information about ancient Chinese culture. Here are ten fascinating things that I learned.
 
 ## 1. 兆 - Fortune-telling on bones
 In ancient China, fortune-tellers would throw turtle shells and animal bones into a fire, perform divination from the resulting cracks, and carve writings into these bones with details about their predictions. The artifacts from these writings have the oldest known form of Chinese characters, called *oracle bone script*, which was used in the Shang dynasty starting around 1250 BC.
@@ -86,19 +84,19 @@ The character **取** means "take", and it is a pictograph of an ear (耳) being
 
 ## 9. 每 - Marriage and hairpins
 
-Young girls in ancient China wore braids until they turned 15, at which point they went through a [coming-of-age ceremony called 筓禮 (hairpin initiation)](https://en.wikipedia.org/wiki/Hairpin#Hairpins_in_Chinese_culture), in which they put their hair up in a bun and secured it with a hairpin. Wearing a hairpin signalled that the young woman had reached the marriagable age.
+Young girls in ancient China wore braids until they turned 15, at which point they went through a [coming-of-age ceremony called 筓禮 (hairpin initiation)](https://en.wikipedia.org/wiki/Hairpin#Hairpins_in_Chinese_culture). In this ritual, the young women put their hair up in a bun and secured it with a hairpin. Wearing a hairpin signaled that the young woman had reached marriagable age.
 
 ![Hairpin 每](/images/hairpin.png)
 
-The character **每** originally meant "young woman", and depicted a hairpin affixed the head of a woman (母). The character 每 was later repurposed to represent a similar-sounding word, and now has the unrelated meaning "each" or "every".
+The character **每** originally meant "young woman" and depicted a hairpin affixed the head of a woman (母). The character 每 was later re-purposed to represent a similar-sounding word, and now has the unrelated meaning "each" or "every".
 
-The character **妻** (wife) also depicts a woman (女) wearing a hairpin, which is being grabbed by a hand. When a woman was engaged, she would give her future husband her hairpin as a pledge.
+The character **妻** (wife) also depicts a woman (女) wearing a hairpin, which is being grabbed by a hand. When a woman became engaged, she would give her future husband her hairpin as a pledge.
 
 ![Wife hairpin 妻](/images/wife_hairpin.png)
 
-## 10 - Axes, axes, and more axes
+## 10. Axes, axes, and more axes
 
-The ancient Chinese seemed to have an obsession with axes and drawing them from all sides and angles.
+The ancient Chinese seemed to have an obsession with axes, drawing them from all sides and angles.
 
 ![Axes 戈士王可斤](/images/axes.png)
 
@@ -116,3 +114,7 @@ All of the following characters were originally pictographs of axes (although th
 
 Make sure you don't confuse them. Good luck! :)  
 Fortunately, many of them are not in common daily use anymore, except for 成 (complete; succeed) and 或 (or; maybe).
+
+## References
+
+The sources for the information on this page are the [Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) provided by the Chinese University of Hong Kong, and the [historical character image database](https://hanziyuan.net) created by Richard Sears.
