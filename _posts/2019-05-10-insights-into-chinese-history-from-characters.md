@@ -53,7 +53,7 @@ In ancient China, sheep (**羊**) were associated with goodness and fortune, and
 
  - **羊** (sheep) is a pictograph of the horns on a sheep head.
  - **美** (beautiful) depicts a person (大) with ornamental headwear resembling sheep horns.
- - **善** (benevolent) has two 言 (speech) components around the sheep, representing kind words being spoken.
+ - **善** (benevolent) has a sheep surrounded by two 言 (speech) components, which represent the sound.
  - **義** (justice; simplified 义) is a sheep over 我 (I; me). 我 is used here as a sound component, since 義 and 我 sounded similar in ancient Chinese.
  - **祥** (auspicious) is a sheep accompanied by the 礻/ 示 (spirit) component.
 
@@ -110,10 +110,10 @@ The ancient Chinese seemed to have an obsession with axes, drawing them from all
 
 All of the following characters were originally pictographs of axes (although the meaning of most of them has changed over the years), and they're all pronounced differently:
 
-#### 戊戉戍戌戎成或
+#### 戊戉戍戌戎
 
 Make sure you don't confuse them. Good luck! :)  
-Fortunately, many of them are not in common daily use anymore, except for 成 (complete; succeed) and 或 (or; maybe).
+Fortunately, many of them are not in common daily use anymore.
 
 ## References
 
