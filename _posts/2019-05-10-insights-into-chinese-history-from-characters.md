@@ -113,7 +113,7 @@ All of the following characters were originally pictographs of axes (although th
 #### 戊戉戍戌戎
 
 Make sure you don't confuse them. Good luck! :)  
-Fortunately, many of them are not in common daily use anymore.
+Fortunately, most of them are not in common daily use anymore.
 
 ## References
 
