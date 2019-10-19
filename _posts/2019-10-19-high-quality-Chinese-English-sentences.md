@@ -50,7 +50,7 @@ I trained a [simple neural network](https://en.wikipedia.org/wiki/Multilayer_per
 This was a simple pattern-matching function to detect anomalies in punctuation and spacing. For example, 
  - if the Chinese sentence has a question mark and the English sentence does not, then it is likely that they do not match.
  - if there are mismatched quotation marks or parentheses, then the sentence is likely incomplete or low-quality.
- - sentences should end with punctuation (one of ".?!") and English sentences should begin with a captial letter.
+ - sentences should end with punctuation (one of ".?!") and English sentences should begin with a capital letter.
 
 ### 2. Length ratios
 If the Chinese sentence is very short and the English sentence is very long, or vice-versa, it is likely that the sentences do not completely match. English sentences are generally between 2.33 and 3.94 times longer than Chinese sentences.
@@ -73,7 +73,7 @@ Using the same part-of-speech tagging mentioned above, I filtered out sentences 
 
 I used the [LanguageTool API](https://languagetool.org/dev#api) to detect grammar and spelling mistakes in the English sentences. I also tried the grammar checker for Mandarin, but it wasn't nearly as useful as the English one and did not offer any improvement over the baseline accuracy.
 
-### 7. Sentence similarity
+### 8. Sentence similarity
 
 To calculate the similarity between the Chinese and English sentence, I followed this process:
 
