@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Blog for [Dong Chinese](https://www.dong-chinese.com/), a data-driven app to help you learn to understand Chinese through thousands of real example sentences, captioned images, and songs.
+Blog for [Dong Chinese](https://www.dong-chinese.com/), an app to help you learn to understand Chinese through thousands of real example sentences, captioned images, videos, podcasts, and songs.
