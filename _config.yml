@@ -16,8 +16,7 @@
 title: "东东's Notes"
 email: peter@dong-chinese.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog for Dong Chinese, a data-driven app for learning to read and write Mandarin Chinese 
-  through thousands of real example sentences, captioned images, and songs.
+  Blog for Dong Chinese, an app to help you learn to understand Chinese through thousands of real example sentences, captioned images, videos, podcasts, and songs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.dong-chinese.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  peterolson
