@@ -16,7 +16,7 @@ We are very excited to open our roadmap for everyone to enjoy, to vote on their 
 
 The roadmap is a [Trello board](https://trello.com/b/i5ER5IRB/dong-chinese-open-roadmap) with voting and commenting enabled. If you have a Trello account, you can vote and comment on your favorite features that you want to see developed. 
 
-Even if we are already working on a feature, your votes and feedback are very valuable, so feel free to let us know if we should prioritize certain features more.
+Even if we are already working on a feature, your votes and feedback are very valuable, so feel free to let us know which features you think we should prioritize the most.
 
 ## What you can find there?
 
@@ -24,13 +24,13 @@ Even if we are already working on a feature, your votes and feedback are very va
 
 ![Just shipped list](/images/justShipped.png)
 
-Features that we recently shipped or are rolling out in the coming days. We will try to create a blog post explaining the details of every new feature that we roll out, and link to it in the corresponding card in the roadmap.
+These are features that we recently shipped or are rolling out in the coming days. We will try to create a blog post explaining the details of every new feature that we roll out, and link to it in the corresponding card in the roadmap.
 
 ### Active development / Testing
 
 ![Active development list](/images/activeDevelopment.png)
 
-Features that are currently being developed and will be rolled out soon.
+These features are currently being developed and will be rolled out soon.
 
 ### Near term: in a few months
 
