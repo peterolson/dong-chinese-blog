@@ -3,7 +3,7 @@ layout: post
 title:  "Dong Chinese public roadmap"
 permalink: /dong-chinese-roadmap/
 ---
-[![Dong Chinese Public Roadmap on Trello](/images/trello.png)](https://trello.com/b/i5ER5IRB/dong-chinese-open-roadmap)  
+[![Dong Chinese Public Roadmap on Trello](/images/Trello.png)](https://trello.com/b/i5ER5IRB/dong-chinese-open-roadmap)  
 Being accountable to and open with all our users is very important to us. To achieve that in the most transparent way, we have created a central spot to keep track of our journey. 
 
 The [Dong Chinese public roadmap](https://trello.com/b/i5ER5IRB/dong-chinese-open-roadmap) is a living project, tracking the ideas for future features based on our product vision, users' needs, and our business goals.
