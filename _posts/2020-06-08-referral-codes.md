@@ -22,7 +22,7 @@ If 7 people subscribe with your promo code, you will get 50% off all of your fut
 
 ## Where is my referral code?
 
-After you log in, go to the **Account** page and click on **Invite friends**.
+After you log in, go to the [**Account** page](https://www.dong-chinese.com/account) and click on [**Invite friends**](https://www.dong-chinese.com/account/invite).
 
 ![Account page with Invite Friends button](/images/Referral1.png)
 
