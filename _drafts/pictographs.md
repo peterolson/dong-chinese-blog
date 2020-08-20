@@ -63,7 +63,7 @@ Tools
 東东
 傘伞
 
-Manmade
+/Manmade
 門门戶高宮行糸几宀衣卜兆巾冃冒玉井舟㫃冊
 車车
 樂乐
@@ -71,5 +71,5 @@ Manmade
 /Nature
 山日月土水火石田夕气雨旦申川昜永穴谷派州
 
-Ideographic
+/Ideographic
 一二三上下丫凸凹非朋多曲

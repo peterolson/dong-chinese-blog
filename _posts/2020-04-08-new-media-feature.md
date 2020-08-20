@@ -3,7 +3,9 @@ layout: post
 title:  "New feature: add your own media on Dong Chinese"
 ---
 [<img src="https://data.dong-chinese.com/thumb/logos/ChineseBuddy.jpg" alt="Chinese Buddy" width="60" />](https://www.dong-chinese.com/media/Chinese%20Buddy)
+[<img src="https://data.dong-chinese.com/thumb/logos/FragrantMandarin.jpg" alt="Fragrant Mandarin" width="60" />](https://www.dong-chinese.com/media/Fragrant%20Mandarin)
 [<img src="https://data.dong-chinese.com/thumb/logos/GoEast.png" alt="GoEast Mandarin Beyond Class" width="60" />](https://www.dong-chinese.com/media/GoEast%20Mandarin)
+[<img src="https://data.dong-chinese.com/thumb/logos/CoolPanda.png" alt="Cool Panda" width="60" />](https://www.dong-chinese.com/media/Cool%20Panda)
 [<img src="https://data.dong-chinese.com/thumb/logos/SlowChinese.jpg" alt="Slow Chinese" width="60" />](https://www.dong-chinese.com/media/Slow%20Chinese)
 [<img src="https://data.dong-chinese.com/thumb/logos/IowaUni.jpg" alt="University of Iowa" width="60" />](https://www.dong-chinese.com/media/University%20of%20Iowa)
 [<img src="https://data.dong-chinese.com/thumb/logos/Cooking.jpg" alt="小高姐 Cooking" width="60" />](https://www.dong-chinese.com/media/Cooking)
