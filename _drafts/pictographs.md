@@ -53,10 +53,10 @@
 角 horn
 革 leather
 
-Military
+/Military
 戈士王矢斤弓引戊戌戉殳矛戎朿兵凶至
 
-Tools
+/Tools
 勺刀力匕网工主用其重酉畐帶鼎串束皿缶耒釆斗升臼
 經经
 鹵卤
