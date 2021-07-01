@@ -3,7 +3,7 @@ layout: post
 title:  "New features: discussions and study lists"
 ---
 We've rolled out two new features recently, study lists and discussions.<br><br>
-[![Study lists](/images/lists.png)](https://www.dong-chinese.com/lists)[![Discussion thread](/images/discuss.png)](https://www.dong-chinese.com/discuss)
+[![Study lists](/images/lists.PNG)](https://www.dong-chinese.com/lists)[![Discussion thread](/images/discuss.png)](https://www.dong-chinese.com/discuss)
 
 ## Discussions
 
