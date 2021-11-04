@@ -30,6 +30,8 @@ When you're in class, it's expected that you have completed the self-study mater
 
 [The teachers I had a GoEast](https://goeastmandarin.com/chinese-teachers-and-staff/) were all very friendly and enthusiastic. They knew how to answer any question I had succinctly and accurately, and it was easy and fun to carry on conversations with them.
 
+Unlike some tutors you might find more cheaply on other platforms, the teachers at GoEast know how to use your time together effectively. You will not spend much time at all speaking in English, and you will be able to focus on the areas that you need help with the most. The teachers have a deep knowledge of the Chinese language and know how to explain things in a way that you will understand.
+
 ## Beyond Class
 
 <a href="https://www.dong-chinese.com/media/GoEast%20Mandarin/04afd58547e5ec8afbcca0bd">
