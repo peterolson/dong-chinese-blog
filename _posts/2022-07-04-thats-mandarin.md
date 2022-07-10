@@ -3,7 +3,7 @@ layout: post
 title: "Learning Chinese with Nihao Cafe"
 ---
 
-Recently a language school called [That’s Mandarin](https://www.thatsmandarin.com/) reached out to me, offering to try out their learning platform called NihaoCafe. I really enjoyed my experience with their teachers and using their platform, and I’d like to share some details about it with everyone.
+Recently a language school called [That’s Mandarin](https://www.thatsmandarin.com/) reached out to me. They have many free resources to help you learn Chinese, such as their 1-minute Chinese videos with useful tidbits. Their videos are already available on the Dong Chinese Media section: [https://www.dong-chinese.com/media/That's%20Mandarin](https://www.dong-chinese.com/media/That's%20Mandarin)<br/><br/>They also let me try out their learning platform called NihaoCafe. I really enjoyed my experience with their teachers using their platform, and I’d like to share some details about it with everyone.
 
 ## What is NihaoCafe?
 
